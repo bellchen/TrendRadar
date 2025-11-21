@@ -10,8 +10,9 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
+CoreWeare
+
 
 谷歌
 google
@@ -33,9 +34,51 @@ ipad
 mac
 ios
 
-ai
+AI
 !gai
 人工智能
+Chatgpt
+OpenAI
+Anthropic
+Claude
+Google
+Gemini
+DeepSeek
+Kimi
+Minimax
+字节
+火山引擎
+腾讯
+QWen
+千问
+X.com
+Grok
+Midjourney
+Nanobanana
+Veo
+AI视频
+AI音频
+TTS
+声音克隆
+Context Engine
+Prompt
+提示词
+硅基流动
+siliconflow
+Openrouter
+MiniCPM
+deepmind
+sora
+数字人
+数字分身
+github
+开源
+agent
+MCP
+A2A
+A2P
+vibe coding
+codex
 
 自动驾驶
 
@@ -65,3 +108,7 @@ ai
 美联储
 涨跌
 特朗普
+
+出海
+独立开发者
+赚美金
